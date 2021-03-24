@@ -18,6 +18,6 @@ def wordPattern(pattern, s):
     return True
 
 print(wordPattern("abba", "dog cat cat dog"))
-print(wordPattern("abba", "dog cat dog cat"))
+print(wordPattern("boba", "dog cat dog cat"))
 print(wordPattern("", ""))
 
